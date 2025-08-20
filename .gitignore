@@ -1,0 +1,47 @@
+# Node.js / React frontend
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+/frontend/.DS_Store
+
+# Python backend
+/backend/__pycache__/
+/backend/.env
+/backend/.DS_Store
+*.pyc
+*.pyo
+*.pyd
+
+# Qdrant storage and logs
+/storage/
+!storage/README.md
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS generated files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Docker artifacts
+*.pid
+*.sock
+
+# Misc
+*.swp
+*.swo
+
+# Ignore migration plans, steps, and documentation only if generated
+# Uncomment if you want to ignore these
+# MIGRATION_PLAN.md
+# STEPS.md
+# README.md
