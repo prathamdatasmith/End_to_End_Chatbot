@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 RAG Chatbot with PDF Upload
 
 A sophisticated Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions about their content. The system uses vector embeddings, semantic search, and AI generation to provide accurate answers based on uploaded documents.
@@ -580,3 +581,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Happy chatting with your documents! 🚀📚**
+=======
+# End_to_End_Chatbot
+>>>>>>> b35c0ef3e9be24eb834829d24d591863c151e2df
